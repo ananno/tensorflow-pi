@@ -13,7 +13,7 @@ Pi = 4 * ( 1 - (1/3) + (1/5) - (1/7) + (1/9) - ...)
 It's one of the many polynomial that can be used for calculating pi. It is very simple one.
 
 ## Serial Code
-The serial code _[polynomial-pi.py] is to give an idea straight forward how this works. It generates the polynomial components in for loop and make sum of them accordingly. Finaly calculate the pi.
+The serial code _[polynomial-pi.py]_ is to give an idea straight forward how this works. It generates the polynomial components in for loop and make sum of them accordingly. Finaly calculate the pi.
 
 ## Parallel Code
 This is the challenge. Do it yourself and push your code in this repo. Please follow the following rule.
